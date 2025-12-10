@@ -75,7 +75,7 @@
                 originalPrice: 60.00,
                 discount: 50,
                 rating: 4.8,
-                image: 'product7.jpeg'
+                image: 'assets/product7.jpeg'
             },
             {
                 id: 8,
